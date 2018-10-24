@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: October 24, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked the 100daysOfCode repository, will continue on my work with Rails Tutorial https://www.railstutorial.org/book/toy_app
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I know too little about Ruby and Rails, but this railstutorial has been very helpful and I want to learn by doing it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
