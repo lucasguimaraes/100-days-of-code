@@ -9,7 +9,7 @@
 
 **Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
 
-### Day 2: October 25, 2018 
+### Day 1: October 25, 2018 
 
 
 **Today's Progress**: Continued my study about Ruby on Rails working on the toy_app. Put the gem bootstrap dependecy into the project with success and made some css ajustments. Generated the scaffold code for the microposts contet.
