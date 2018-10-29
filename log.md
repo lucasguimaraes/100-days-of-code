@@ -17,3 +17,12 @@
 **Thoughts:** The scaffold process is beautifull to watch, tho I don't know a lot about what he's generating. But that keep me going and wanting more.
 
 **Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
+
+### Day 2: October 26, 2018 
+
+
+**Today's Progress**: Had some issues at editing the user show page to display the content of the user's first micropost. But searching on google i manage to solve it.
+
+**Thoughts:** This was the first exercise that i could not do it by myself
+
+**Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
