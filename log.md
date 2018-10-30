@@ -26,3 +26,13 @@
 **Thoughts:** This was the first exercise that i could not do it by myself
 
 **Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
+
+
+### Day 3: October 30, 2018 
+
+
+**Today's Progress**: Add validation for the presence of micropost content in order to ensure that microposts can’t be blank. And did the same on User's model. 
+
+**Thoughts:** Had trouble with the 'def show' user controller, had to look into google to find the solutions.
+
+**Link to work:** [Toy_App](https://bitbucket.org/lucaspmguima/toy_app/src)
